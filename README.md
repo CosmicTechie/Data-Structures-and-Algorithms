@@ -3,3 +3,4 @@ Knowledge of Data Structures and Algorithms is must for a computer science nerd.
 1. [Searching](https://github.com/CosmicTechie/Algorithms/tree/main/Searching)
 2. [Sorting](https://github.com/CosmicTechie/Algorithms/tree/main/Sorting)
 3. [Stack](https://github.com/CosmicTechie/Data-Structures-and-Algorithms/tree/main/Stack)
+4. 
