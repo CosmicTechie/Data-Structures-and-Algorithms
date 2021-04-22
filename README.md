@@ -4,4 +4,4 @@
 2. [Sorting](https://github.com/CosmicTechie/Algorithms/tree/main/Sorting)
 3. [Stack](https://github.com/CosmicTechie/Data-Structures-and-Algorithms/tree/main/Stack)
 4. [Queue](https://github.com/CosmicTechie/Data-Structures-and-Algorithms/tree/main/Queue)
-#### If found helpful, drop a  :)
+#### If found helpful, drop a star :)
